@@ -28,7 +28,9 @@
   
   <hr/>
 
-  <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+
+##	🙋‍♂️ About Me
+   <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
 
 - 👨‍🎓 <samp>B.Tech in Computer Science & Engineering(2020-2024) from CHARUSAT University</b>
 - 🔭 <samp>I'm currently working on Airline Management System using Django
@@ -42,9 +44,9 @@
 - ⚡ <samp>Fun fact: I am fun person and sometimes dumb though, but I am a determined guy.
 - :volleyball: <samp>I love to play volleyball.
 </div>
+<hr/>
   
-##
-<h3><b><samp>Skills and Languages</samp></b></h3>
+## ✍️ Skills and Languages
   
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
@@ -54,9 +56,9 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
 </span>
+<br><br>
   
-##
-<h3><b><samp>💻 Tools and Platform</samp></b></h3>
+## 💻 Tools and Platform
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
