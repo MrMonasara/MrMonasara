@@ -1,6 +1,11 @@
 
 # Hey Everyone! <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/wavehand.gif" width="4%"> I'm [Abhay Monasara](https://github.com/mrmonasara)
-<br><br>
+<br>
+<p align="center">
+  <a href="https://github.com/mrmonasara/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+<br>
 <!-- <a href="https://twitter.com/amandewatnitrr">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a> -->
