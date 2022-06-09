@@ -30,7 +30,7 @@
 
 
 ##	🙋‍♂️ About Me
-   <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+   <img align="right" src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/79353473-60ad7580-7f3b-11ea-8bc7-411bab23032e.gif" width="55%"/>
 
 - 👨‍🎓 <samp>B.Tech in Computer Science & Engineering(2020-2024) from CHARUSAT University</b>
 - 🔭 <samp>I'm currently working on Airline Management System using Django
