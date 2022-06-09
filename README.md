@@ -84,9 +84,7 @@
 <a href="https://github.com/mrmonasara">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mrmonasara&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/mrmonasara">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmonasara&layout=compact&theme=great-gatsby" />
-</a>
+<img height="160cm" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmonasara&theme=great-gatsby" />
 </p>
   
 ## 🔝 Most used languages
