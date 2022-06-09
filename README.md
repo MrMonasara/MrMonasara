@@ -49,12 +49,12 @@
 ## ✍️ Skills and Languages
   
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/php.png" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/python-5(1).svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/javascript.svg" alt="drawing" width="50"/>
 </span>
 <br><br>
   
