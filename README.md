@@ -68,11 +68,11 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
   
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/Octocat.png" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/google-cloud-1.svg" alt="drawing" width="50"/>
 </span>
 <br><br>
   
