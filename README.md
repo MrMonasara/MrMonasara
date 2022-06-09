@@ -31,8 +31,7 @@
 
 - 👨‍🎓 <samp>B.Tech in Computer Science & Engineering(2020-2024) from CHARUSAT University</b>
 - 🔭 <samp>I'm currently working on Airline Management System using Django
-<!-- - 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)-->
+- 🌱 I’m currently learning everything 🤣
 - 💼 <samp>I’m looking for **Part-Time** Freelancing/roles. 
 - 🧑‍💻 <sawp>Most of my work is on [Github](https://github.com/mrmonasara)
 - 💬 <samp>Ask me about HTML/CSS/JS/BOOSTRAP
