@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/abhay_patel122/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/abhay_patel122/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 <br><br>
 
 ![](https://github.com/MrMonasara/MrMonasara/blob/main/assets/header_.png)
