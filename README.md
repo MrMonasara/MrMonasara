@@ -102,5 +102,12 @@
 </p>
 
 <hr/>
+
+ Last Updated on 09/06/2022 17:02:10 IST
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572.svg"/>
+</p>
   
   
