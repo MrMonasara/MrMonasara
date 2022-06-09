@@ -50,7 +50,7 @@
   
 <span>
 <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/php.png" alt="drawing" width="50"/>
-<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/python-5(1).svg" alt="drawing" width="50"/>
+<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/python-5%20(1).svg" alt="drawing" width="50"/>
 <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/css.svg" alt="drawing" width="50"/>
