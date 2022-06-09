@@ -24,8 +24,9 @@
   
   <hr/>
 
+<p>🍌 Don't forget to get some Potassium 🍌</p>
 
-##	🙋‍♂️ About Me
+<h2>⚡️ A Few Quick Facts</h2>
    <img align="right" src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/79353473-60ad7580-7f3b-11ea-8bc7-411bab23032e.gif" width="47%"/>
 
 - 👨‍🎓 <samp>B.Tech in Computer Science & Engineering(2020-2024) from CHARUSAT University</b>
