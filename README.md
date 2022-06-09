@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/abhay_patel122/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/abhay_patel122/">
+<a href="https://www.facebook.com/profile.php?id=100016675698951">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <br><br>
