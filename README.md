@@ -1,11 +1,5 @@
-<!-- - 👋 Hi, I’m @MrMonasara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- -->
 
-# Hey Everyone!<img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/wavehand.gif" width="6%">I'm [Abhay Monasara](https://github.com/mrmonasara)
+# Hey Everyone! <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/wavehand.gif" width="4%"> I'm [Abhay Monasara](https://github.com/mrmonasara)
 <br><br>
 <!-- <a href="https://twitter.com/amandewatnitrr">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -24,7 +18,6 @@
 ![](https://github.com/MrMonasara/MrMonasara/blob/main/assets/header_.png)
 
 <div>
-  <br>
   
   <hr/>
 
