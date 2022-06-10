@@ -1,9 +1,11 @@
 
 # Hey Everyone! <img src="https://github.com/MrMonasara/MrMonasara/blob/main/assets/wavehand.gif" width="4%"> I'm [Abhay Monasara](https://github.com/mrmonasara)
 <br>
-<p align="center">
-  <a href="https://github.com/mrmonasara/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namste,+floks!+👋;Abhay+Monasara+here....;full+stack+web+devloper!&center=true&size=30">
+  </a>
+</h1>
 
 <br>
 <!-- <a href="https://twitter.com/amandewatnitrr">
